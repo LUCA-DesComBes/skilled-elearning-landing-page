@@ -45,10 +45,10 @@ header {
 	flex-direction: column;
 	gap: 24px;
 }
-h1 {
+#h1 {
 	font-weight: 800;
 	font-size: 56px;
-	width: 70%;
+	width: 80%;
 	color: #13183f;
 }
 #modern {
@@ -112,16 +112,16 @@ h1 {
 .fch {
 	margin-top: 79px;
 }
-#para-b {
+.para-b {
 	color: #13183f;
 	font-weight: 800;
 	font-size: 24px;
 }
-#para-g {
+.para-g {
 	color: #83869a;
 	font-size: 18px;
 }
-#get-s {
+.get-s {
 	cursor: pointer;
 	color: #f74780;
 	font-weight: 700;
